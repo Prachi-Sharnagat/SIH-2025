@@ -1,1 +1,0 @@
-- [x] Update app/components/ui/Introduction.tsx to remove legacyBehavior and the child anchor tag
